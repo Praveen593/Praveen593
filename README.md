@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Praveen S
+- 👀 I’m interested in  Web development, full stack (mern) and API integration.
+- 🌱 I’m currently learning Java and Moblie applications.
+- 💞️ I’m looking to collaborate and have technical interaction.
+- 📫 How to reach me visit my website
